@@ -48,8 +48,8 @@ Insight: Marketing exposure is critical
 
 ---
 
-## 🛠 Tools
+## Tools
 - Minitab / Excel
 
-## 📈 Conclusion
+## Conclusion
 Sales performance is more influenced by visibility and exposure rather than price or rating.
