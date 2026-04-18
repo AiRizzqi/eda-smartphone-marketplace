@@ -7,6 +7,7 @@ This project aims to analyze smartphone marketplace data to identify key factors
 ## Dataset
 - Period: Jan–May 2020  
 - Features: price, daily_sold, daily_view, rating, GMV
+- The dataset used in this project is available in the `data/` folder.
 
 ## Key Insights
 
