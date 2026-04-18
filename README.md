@@ -1,4 +1,3 @@
-# eda-smartphone-marketplace
 # Exploratory Data Analysis – Smartphone Marketplace
 
 ## Objective
